@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Apparel_AnimalScarf.label>шарф для животных</Apparel_AnimalScarf.label>
+
+    <Apparel_AnimalClothes.label>одеяния для животных</Apparel_AnimalClothes.label>
+
+    <Apparel_AnimalFlakArmor.label>броня для животных</Apparel_AnimalFlakArmor.label>
+    <Apparel_AnimalAdvancedHelmet.label>шлем для животных</Apparel_AnimalAdvancedHelmet.label>
+
+    <Apparel_AnimalPlateArmor.label>латные доспехи для животных</Apparel_AnimalPlateArmor.label>
+    <Apparel_AnimalPlateHelmet.label>латный шлем для животных</Apparel_AnimalPlateHelmet.label>
+
+    <Apparel_Howdah.label>паланкин</Apparel_Howdah.label>
+    <Apparel_bridle.label>уздечка</Apparel_bridle.label>
+
+    <Apparel_AnimalPowerArmor.label>силовая броня для животных</Apparel_AnimalPowerArmor.label>
+    <Apparel_AnimalPowerArmorHelmet.label>шлем силовой брони для животных</Apparel_AnimalPowerArmorHelmet.label>
+
+</LanguageData>
